@@ -18,3 +18,9 @@ Or via Walker: `SUPER+ALT+SPACE` → Install → Style → Theme → paste `http
 - `icons.theme` — icon theme reference
 - `backgrounds/` — three wallpapers (`lanterns1.jpg`, `lanterns2.jpg`, `lanterns3.jpg`)
 - `preview.png` — theme screenshot
+
+## Credits
+
+lanterns1.jpg - by DC Studios / Warner Bros. Discovery / HBO
+lanterns2.jpg - by https://www.bosslogicinc.com/
+lanterns3.jpg - by https://hcnoel.com/ (buy their prints!)
