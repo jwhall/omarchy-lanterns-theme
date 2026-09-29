@@ -21,6 +21,6 @@ Or via Walker: `SUPER+ALT+SPACE` → Install → Style → Theme → paste `http
 
 ## Credits
 
-lanterns1.jpg - by DC Studios / Warner Bros. Discovery / HBO
-lanterns2.jpg - by https://www.bosslogicinc.com/
-lanterns3.jpg - by https://hcnoel.com/ (buy their prints!)
+- `lanterns1.jpg` - by DC Studios / Warner Bros. Discovery / HBO
+- `lanterns2.jpg` - by https://www.bosslogicinc.com/
+- `lanterns3.jpg` - by https://hcnoel.com/ (buy their prints!)
